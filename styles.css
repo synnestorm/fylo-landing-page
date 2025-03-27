@@ -21,7 +21,7 @@ body {
   background-size: cover;
   overflow-x: hidden;
   font-family: "Open Sans";
-  background-color: var(--light-blue);
+  background-color: white;
 }
 
 img.logo {
